@@ -55,3 +55,7 @@ Your insights and feedback are invaluable! Please share your thoughts and sugges
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+
+## Screen Shots
+
+![image](https://github.com/RithikSuthan/Priority-Planner/assets/72434153/3257f381-618e-41d1-9604-6a33917bf8b2)
