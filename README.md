@@ -24,6 +24,7 @@ Priority Planner is a web application designed to help users manage their tasks 
 
 - **Backend Service:** Deployed on Google Cloud Platform at [https://plantoday-420711.el.r.appspot.com](https://plantoday-420711.el.r.appspot.com)
 - **Frontend Service:** Deployed on Render.com at [https://todo-faaj.onrender.com](https://todo-faaj.onrender.com)
+- **Backend Service:** GitHub Url: [https://github.com/RithikSuthan/todoservice.git](https://github.com/RithikSuthan/todoservice.git)
 
 ## Development
 
